@@ -1,4 +1,4 @@
-# 🚗 Smart Parking System with License Plate Detection
+# 🚗 Parking-Space-Availability-with-Low-Resolution-License-Plate
 
 A cost-effective smart parking system that uses existing CCTV cameras to detect vehicle entry/exit and estimate real-time parking availability using AI.
 
